@@ -1,16 +1,17 @@
-![MasterHead](https://eskimo-designs-38.webself.net/file/si767370/hello-fi12123299.png)
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">👋 I'm Naman Jain 😀</h1>
 <h3 align="center">A  machine learning trainee</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
- 
+<h3> Glad to see you here!</h3>
+I am a fun loving machine learning trainee and technical writer.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanjain050305&label=Profile%20views&color=0e75b6&style=flat" alt="namanjain050305" /> </p>
 
 - 👨🏻‍💻 I’m currently working on **Something cool.**
 
 - 🌱 I’m currently learning **Structures and Algorithms**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/naman-jain-4882081ab/](https://www.linkedin.com/in/naman-jain-4882081ab/)
+- 📝 I regularly write articles on  [Linkedin](https://www.linkedin.com/in/naman-jain-4882081ab/), check my articles [here](https://www.linkedin.com/in/naman-jain-4882081ab/)
 
 - 💬 Ask me about anything **I am happy to help you.**
 
@@ -18,6 +19,14 @@
 
 - ⚡ Fun fact **You can learn everything in Free.**
 
+</br>
+
+📊 **This Week I Spent My Time On:**
+
+```text
+- Data Strucutre and algorithms
+- Some Python projects
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/namanja70803604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="namanja70803604" height="30" width="40" /></a>
@@ -33,3 +42,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=namanjain050305&show_icons=true&locale=en" alt="namanjain050305" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=namanjain050305&" alt="namanjain050305" /></p>
+
