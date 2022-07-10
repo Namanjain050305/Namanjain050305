@@ -27,6 +27,8 @@ I am a fun loving machine learning trainee and technical writer.
 - Data Strucutre and algorithms
 - Some Python projects
 ```
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namanjain050305" alt="namanjain050305" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/namanja70803604" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="namanja70803604" height="30" width="40" /></a>
