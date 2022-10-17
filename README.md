@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">👋 I'm Naman Jain 😀</h1>
-<h3 align="center">A  machine learning trainee</h3>
+<h3 align="center">Computer Science Student</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3> Glad to see you here!</h3>
