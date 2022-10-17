@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3> Glad to see you here!</h3>
-I am a fun loving machine learning trainee and technical writer.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=namanjain050305&label=Profile%20views&color=0e75b6&style=flat" alt="namanjain050305" /> </p>
 
 - 👨🏻‍💻 I’m currently working on **Something cool.**
